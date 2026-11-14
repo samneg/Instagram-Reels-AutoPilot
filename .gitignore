@@ -1,0 +1,5 @@
+temp_videos/
+__pycache__/
+*.pyc
+.env
+instagram_session.json
