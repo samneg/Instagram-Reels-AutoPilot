@@ -72,3 +72,4 @@ jobs:
             git commit -m "AutoPilot: updated cloud_schedule.json after publishing [skip ci]"
             git push
           fi
+
