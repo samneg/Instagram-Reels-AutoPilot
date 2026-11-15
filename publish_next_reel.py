@@ -9,6 +9,7 @@ import argparse
 import json
 import logging
 import os
+import subprocess
 import sys
 import urllib.request
 from datetime import datetime, timezone
@@ -91,7 +92,6 @@ def download_video(gdrive_file_id: str, filename: str) -> Path:
 
     logger.info(f"Downloading {filename} from Google Drive (ID: {gdrive_file_id})...")
     
-    # Try direct download URL
     url = f"https://drive.google.com/uc?id={gdrive_file_id}&export=download"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
 
@@ -106,6 +106,23 @@ def download_video(gdrive_file_id: str, filename: str) -> Path:
         import gdown
         gdown.download(id=gdrive_file_id, output=str(out_path), quiet=False)
         return out_path
+
+
+def generate_thumbnail(video_path: Path) -> Path:
+    """Generate high quality thumbnail frame using ffmpeg."""
+    thumb_path = video_path.with_suffix(".jpg")
+    try:
+        cmd = [
+            "ffmpeg", "-y", "-ss", "00:00:01", "-i", str(video_path),
+            "-vframes", "1", "-q:v", "2", str(thumb_path)
+        ]
+        res = subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if res.returncode == 0 and thumb_path.exists() and thumb_path.stat().st_size > 0:
+            logger.info(f"Generated thumbnail via ffmpeg: {thumb_path.name} ({thumb_path.stat().st_size} bytes)")
+            return thumb_path
+    except Exception as exc:
+        logger.warning(f"ffmpeg thumbnail extraction failed: {exc}")
+    return None
 
 
 def main():
@@ -160,10 +177,15 @@ def main():
     cl = get_instagram_client()
     logger.info(f"Uploading '{fname}' as an Instagram Reel...")
 
-    media = cl.clip_upload(
-        path=str(video_path),
-        caption=caption_text,
-    )
+    thumb_path = generate_thumbnail(video_path)
+    upload_kwargs = {
+        "path": str(video_path),
+        "caption": caption_text,
+    }
+    if thumb_path:
+        upload_kwargs["thumbnail"] = thumb_path
+
+    media = cl.clip_upload(**upload_kwargs)
 
     media_id = str(getattr(media, "id", "") or getattr(media, "pk", ""))
     media_code = str(getattr(media, "code", ""))
@@ -195,13 +217,17 @@ def main():
                 f.write(f"- **View Live on Instagram:** [{reel_url}]({reel_url})\n\n")
             f.write(f"**Hook:** {candidate.get('hook', '')}\n")
 
-    # Cleanup temp video to save space
+    # Cleanup temp video and thumbnail to save space
     try:
         video_path.unlink()
     except Exception:
         pass
+    if thumb_path and thumb_path.exists():
+        try:
+            thumb_path.unlink()
+        except Exception:
+            pass
 
 
 if __name__ == "__main__":
     main()
-
