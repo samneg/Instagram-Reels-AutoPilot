@@ -66,7 +66,7 @@
     "slot_id": 4,
     "scheduled_slot_utc": "2026-11-15T09:15:00Z",
     "scheduled_slot_local": "2026-11-15 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "91f0faed-a6d9-4a17-a8f8-0f32038e7d58",
     "filename": "4.mp4",
     "hook": "Why was Gojo acting completely high right after Toji almost killed him?",
@@ -79,9 +79,11 @@
       "#AnimeTheory",
       "#JJKTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1sribfzPYFtnN2eTft7sldih6MzfI3CVI"
+    "instagram_code": "DfwNTrXMhRJ",
+    "instagram_media_id": "4030780193331352649_14623944338",
+    "gdrive_file_id": "1sribfzPYFtnN2eTft7sldih6MzfI3CVI",
+    "published_at_utc": "2026-11-15T07:08:41.247720+00:00",
+    "reel_url": "https://www.instagram.com/reel/DfwNTrXMhRJ/"
   },
   {
     "slot_id": 5,
