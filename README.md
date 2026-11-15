@@ -8,7 +8,7 @@
 
 An autonomous, **100% free ($0 recurring cost)** cloud automation pipeline for Instagram Reels. 
 
-Pre-schedules hundreds of Reels across a 365-day calendar, stores high-resolution video files on **Google Drive**, and automatically publishes them twice daily using **GitHub Actions Cloud Cron**—with **zero requirement to keep your computer turned on**.
+Pre-schedules hundreds of Reels across a 365-day calendar, stores high-resolution video files on **Google Drive**, and automatically publishes them three times daily using **GitHub Actions Cloud Cron**—with **zero requirement to keep your computer turned on**.
 
 ---
 
@@ -63,7 +63,7 @@ Typical social media scheduling tools (Buffer, Later, Hootsuite) charge \$20–\
 
 ## ✨ Features
 
-- **🚀 100% Autonomous Cloud Publishing:** Scheduled via GitHub Actions (`cron: '30 5 * * *'` and `'15 12 * * *'`).
+- **🚀 100% Autonomous Cloud Publishing:** Scheduled via GitHub Actions (`cron: '30 1 * * *'`, `'15 6 * * *'`, and `'15 9 * * *'`).
 - **💾 Google Drive Integration:** Keeps your GitHub repository lightweight (< 500 KB) by streaming videos on-demand from Google Drive at runtime.
 - **🔒 Encrypted Credential Security:** Authentication cookies (`IG_SESSIONID`) are stored strictly inside encrypted **GitHub Repository Secrets**—safe even on public repos.
 - **🎯 Clean Hashtag Architecture:** Strictly uses the top 5 most relevant niche hashtags per Reel for optimal Instagram SEO and aesthetic feed hygiene.
