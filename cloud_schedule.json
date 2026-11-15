@@ -89,7 +89,7 @@
     "slot_id": 5,
     "scheduled_slot_utc": "2026-11-15T09:15:00Z",
     "scheduled_slot_local": "2026-11-15 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "5348af41-abb9-4b98-9ffa-738a9ba4d05f",
     "filename": "5.mp4",
     "hook": "Senjumaru's Bankai didn't just trap the Sternritter—it actually predicted their exact deaths.",
@@ -102,9 +102,11 @@
       "#AnimeTheory",
       "#Sternritter"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1h0sVQ9c_k0PrpCmmQ4CiLFmqDy_8-NAA"
+    "instagram_code": "DfxMc72spop",
+    "instagram_media_id": "4031057906445228585_14623944338",
+    "gdrive_file_id": "1h0sVQ9c_k0PrpCmmQ4CiLFmqDy_8-NAA",
+    "published_at_utc": "2026-11-15T16:20:24.089931+00:00",
+    "reel_url": "https://www.instagram.com/reel/DfxMc72spop/"
   },
   {
     "slot_id": 6,
