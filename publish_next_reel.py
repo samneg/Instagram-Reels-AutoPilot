@@ -1,7 +1,7 @@
 """
 Standalone Cloud Instagram Reels AutoPilot Publisher.
-Designed to run inside GitHub Actions on a cron schedule twice a day
-(11:00 AM & 05:45 PM IST). Downloads the due video from Google Drive,
+Designed to run inside GitHub Actions on a cron schedule three times a day
+(07:00 AM, 11:45 AM & 02:45 PM IST). Downloads the due video from Google Drive,
 publishes it as an Instagram Reel, and updates cloud_schedule.json.
 """
 
