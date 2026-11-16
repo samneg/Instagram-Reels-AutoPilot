@@ -158,7 +158,7 @@
     "slot_id": 8,
     "scheduled_slot_utc": "2026-11-16T09:15:00Z",
     "scheduled_slot_local": "2026-11-16 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "dcabfade-b743-4f4c-8d53-046775f0a691",
     "filename": "8.mp4",
     "hook": "Why has Roronoa Zoro's left eye been shut tight since the time skip?",
@@ -171,9 +171,11 @@
       "#OnePieceTheory",
       "#ZoroEye"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1hYinsnBUjc364_OBviA1a4SN4S79Olge"
+    "instagram_code": "DfzaurPsZsV",
+    "instagram_media_id": "4031683648166140693_14623944338",
+    "gdrive_file_id": "1hYinsnBUjc364_OBviA1a4SN4S79Olge",
+    "published_at_utc": "2026-11-16T13:03:37.030987+00:00",
+    "reel_url": "https://www.instagram.com/reel/DfzaurPsZsV/"
   },
   {
     "slot_id": 9,
