@@ -2,12 +2,11 @@ name: AutoPilot Instagram Reels Publisher
 
 on:
   schedule:
-    # Slot 1: 07:00 AM IST = 01:30 UTC
-    - cron: '30 1 * * *'
-    # Slot 2: 11:45 AM IST = 06:15 UTC
-    - cron: '15 6 * * *'
-    # Slot 3: 02:45 PM IST = 09:15 UTC
-    - cron: '15 9 * * *'
+    # High-reliability polling: runs every 15 minutes to guarantee exact publishing times (07:00 AM, 11:45 AM, 02:45 PM IST)
+    # and prevents missed slots caused by GitHub Actions cron delays.
+    - cron: '*/15 * * * *'
+  repository_dispatch:
+    types: [publish_reel]
   workflow_dispatch:
     inputs:
       force:
