@@ -112,7 +112,7 @@
     "slot_id": 6,
     "scheduled_slot_utc": "2026-11-16T01:30:00Z",
     "scheduled_slot_local": "2026-11-16 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "154462cb-bc48-44a6-babe-9fcbcb061124",
     "filename": "6.mp4",
     "hook": "This Redditor predicted Gear 5 two months before it happened and everyone laughed at him.",
@@ -125,9 +125,11 @@
       "#AnimeTheory",
       "#OnePieceTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1_M1K4kPHYFe-Q_4PbqIAGIF9ax-ZmGpo"
+    "instagram_code": "DfyeSmkMyYb",
+    "instagram_media_id": "4031417836205450779_14623944338",
+    "gdrive_file_id": "1_M1K4kPHYFe-Q_4PbqIAGIF9ax-ZmGpo",
+    "published_at_utc": "2026-11-16T04:15:28.821874+00:00",
+    "reel_url": "https://www.instagram.com/reel/DfyeSmkMyYb/"
   },
   {
     "slot_id": 7,
