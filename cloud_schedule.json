@@ -227,7 +227,7 @@
     "slot_id": 11,
     "scheduled_slot_utc": "2026-11-17T09:15:00Z",
     "scheduled_slot_local": "2026-11-17 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "13d3c23d-a021-41c1-b4da-0549641c3d83",
     "filename": "11.mp4",
     "hook": "What if Blackbeard isn't a new threat, but the continuation of an ancient nightmare?",
@@ -240,9 +240,11 @@
       "#AnimeTheory",
       "#OnePieceTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "15opWPhxv78yLs27Us0okOVNVEYP0wJYX"
+    "instagram_code": "Df18prqM6G9",
+    "instagram_media_id": "4032395788548284861_14623944338",
+    "gdrive_file_id": "15opWPhxv78yLs27Us0okOVNVEYP0wJYX",
+    "published_at_utc": "2026-11-17T12:38:05.487757+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df18prqM6G9/"
   },
   {
     "slot_id": 12,
