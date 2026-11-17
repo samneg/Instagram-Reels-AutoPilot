@@ -204,7 +204,7 @@
     "slot_id": 10,
     "scheduled_slot_utc": "2026-11-17T06:15:00Z",
     "scheduled_slot_local": "2026-11-17 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "7b122489-1626-42fe-aabe-a8277445cba8",
     "filename": "10.mp4",
     "hook": "Eiichiro Oda hid this mind-blowing One Piece playing card theory in plain sight for years!",
@@ -217,9 +217,11 @@
       "#EiichiroOda",
       "#MangaSpoilers"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1jyxb7qxJpBLeIqJ8NBnEmGq0SXH1RIZz"
+    "instagram_code": "Df18Dv9MjSi",
+    "instagram_media_id": "4032393181821809826_14623944338",
+    "gdrive_file_id": "1jyxb7qxJpBLeIqJ8NBnEmGq0SXH1RIZz",
+    "published_at_utc": "2026-11-17T12:33:19.462420+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df18Dv9MjSi/"
   },
   {
     "slot_id": 11,
