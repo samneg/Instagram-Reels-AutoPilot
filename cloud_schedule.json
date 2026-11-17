@@ -181,7 +181,7 @@
     "slot_id": 9,
     "scheduled_slot_utc": "2026-11-17T01:30:00Z",
     "scheduled_slot_local": "2026-11-17 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "407ecd8d-fdd3-4ae3-9875-24c25e170feb",
     "filename": "9.mp4",
     "hook": "What if the One Piece isn't gold or treasure, but something far more dangerous?",
@@ -194,9 +194,11 @@
       "#Luffy",
       "#GolDRoger"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "15KPQiagsY4nIkMzNP2JLwL-M6IgkFJfC"
+    "instagram_code": "Df1DPPdM79_",
+    "instagram_media_id": "4032143282907889535_14623944338",
+    "gdrive_file_id": "15KPQiagsY4nIkMzNP2JLwL-M6IgkFJfC",
+    "published_at_utc": "2026-11-17T04:16:26.208521+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df1DPPdM79_/"
   },
   {
     "slot_id": 10,
