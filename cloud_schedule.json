@@ -273,7 +273,7 @@
     "slot_id": 13,
     "scheduled_slot_utc": "2026-11-18T06:15:00Z",
     "scheduled_slot_local": "2026-11-18 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "a1482cc9-e10d-4eb8-9057-a866800707a2",
     "filename": "13.mp4",
     "hook": "Why is Killer actually hiding his face under that mask in One Piece?",
@@ -286,9 +286,11 @@
       "#WanoCountry",
       "#ThreeEyeTribe"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1Ux3q1mtxX9p-uvZdUZ_zy0RsGZWgdeZC"
+    "instagram_code": "Df4HcPBsE-0",
+    "instagram_media_id": "4033006192915664820_14623944338",
+    "gdrive_file_id": "1Ux3q1mtxX9p-uvZdUZ_zy0RsGZWgdeZC",
+    "published_at_utc": "2026-11-18T08:51:18.677825+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df4HcPBsE-0/"
   },
   {
     "slot_id": 14,
