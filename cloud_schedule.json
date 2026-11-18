@@ -250,7 +250,7 @@
     "slot_id": 12,
     "scheduled_slot_utc": "2026-11-18T01:30:00Z",
     "scheduled_slot_local": "2026-11-18 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "2b0bbb4e-9580-4747-8e47-ab863a0e6631",
     "filename": "12.mp4",
     "hook": "Aizen used hundreds of souls to make his Hogyoku, so what the hell did Urahara feed his?",
@@ -263,9 +263,11 @@
       "#AizenSosuke",
       "#Hogyoku"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1qe4iApjFSDXCxVqO577Rw4_h0rBtiP2s"
+    "instagram_code": "Df3mzvksDY1",
+    "instagram_media_id": "4032862672875697717_14623944338",
+    "gdrive_file_id": "1qe4iApjFSDXCxVqO577Rw4_h0rBtiP2s",
+    "published_at_utc": "2026-11-18T04:06:07.777923+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df3mzvksDY1/"
   },
   {
     "slot_id": 13,
