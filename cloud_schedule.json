@@ -319,7 +319,7 @@
     "slot_id": 15,
     "scheduled_slot_utc": "2026-11-19T01:30:00Z",
     "scheduled_slot_local": "2026-11-19 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "2ebe0dd8-df01-4bf6-afc1-8488af69aee4",
     "filename": "15.mp4",
     "hook": "Why did Ichigo's hollow finally wake up only when Inoue cried for help?",
@@ -332,9 +332,11 @@
       "#Ulquiorra",
       "#AnimeTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1OiZuZvy1x0uwsYLwQUoAyikCZBX3nw0W"
+    "instagram_code": "Df6EI8ksukK",
+    "instagram_media_id": "4033554623245773066_14623944338",
+    "gdrive_file_id": "1OiZuZvy1x0uwsYLwQUoAyikCZBX3nw0W",
+    "published_at_utc": "2026-11-19T03:00:58.869594+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df6EI8ksukK/"
   },
   {
     "slot_id": 16,
