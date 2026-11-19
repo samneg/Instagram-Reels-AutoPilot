@@ -365,7 +365,7 @@
     "slot_id": 17,
     "scheduled_slot_utc": "2026-11-19T09:15:00Z",
     "scheduled_slot_local": "2026-11-19 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "49f1bec9-d760-46d0-bc0b-e31e359ad858",
     "filename": "17.mp4",
     "hook": "What if Devil Fruit Awakenings are actually granted by the original human wishes that created them?",
@@ -378,9 +378,11 @@
       "#Luffy",
       "#Gear5"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1tX50Htr7Ay__G9CZCU-t3n4JyjldjTpg"
+    "instagram_code": "Df6xDnBsOqu",
+    "instagram_media_id": "4033752168605477550_14623944338",
+    "gdrive_file_id": "1tX50Htr7Ay__G9CZCU-t3n4JyjldjTpg",
+    "published_at_utc": "2026-11-19T09:33:24.263479+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df6xDnBsOqu/"
   },
   {
     "slot_id": 18,
