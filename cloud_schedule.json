@@ -342,7 +342,7 @@
     "slot_id": 16,
     "scheduled_slot_utc": "2026-11-19T06:15:00Z",
     "scheduled_slot_local": "2026-11-19 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "920f5e9d-dd6a-496b-ac3b-e008cc80ac22",
     "filename": "16.mp4",
     "hook": "What if the world's biggest mystery in One Piece isn't missing history, but a war the winners completely rewrote?",
@@ -355,9 +355,11 @@
       "#OnePieceTheory",
       "#AnimeReels"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1FYvgIiDXNaqH0g18hcfow1GZ4bFs0X13"
+    "instagram_code": "Df6uaNCMONR",
+    "instagram_media_id": "4033740527105008465_14623944338",
+    "gdrive_file_id": "1FYvgIiDXNaqH0g18hcfow1GZ4bFs0X13",
+    "published_at_utc": "2026-11-19T09:09:48.119289+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df6uaNCMONR/"
   },
   {
     "slot_id": 17,
