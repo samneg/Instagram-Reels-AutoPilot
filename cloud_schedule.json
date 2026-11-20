@@ -411,7 +411,7 @@
     "slot_id": 19,
     "scheduled_slot_utc": "2026-11-20T06:15:00Z",
     "scheduled_slot_local": "2026-11-20 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "bca7396e-90d3-4044-920c-b6a2590f8242",
     "filename": "19.mp4",
     "hook": "What does the mysterious Will of D actually mean in One Piece?",
@@ -424,9 +424,11 @@
       "#GolDRoger",
       "#AnimeTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1lODhWQrerw9XCVjR9pfMSEtTfB2Cp7XW"
+    "instagram_code": "Df9RHWAMzP2",
+    "instagram_media_id": "4034456112646534134_14623944338",
+    "gdrive_file_id": "1lODhWQrerw9XCVjR9pfMSEtTfB2Cp7XW",
+    "published_at_utc": "2026-11-20T08:51:34.750424+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df9RHWAMzP2/"
   },
   {
     "slot_id": 20,
