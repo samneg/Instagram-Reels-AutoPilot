@@ -388,7 +388,7 @@
     "slot_id": 18,
     "scheduled_slot_utc": "2026-11-20T01:30:00Z",
     "scheduled_slot_local": "2026-11-20 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "6599b3c2-7b47-4592-a02c-3d1ea2d3dee7",
     "filename": "18.mp4",
     "hook": "Did Luffy accidentally reveal he is never going to fight Shanks?",
@@ -401,9 +401,11 @@
       "#AnimeTheory",
       "#OnePieceTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1dQ9BtNu1PAnIN--76pUk5NJmy206Avzi"
+    "instagram_code": "Df8jCosM2Yp",
+    "instagram_media_id": "4034253478975202857_14623944338",
+    "gdrive_file_id": "1dQ9BtNu1PAnIN--76pUk5NJmy206Avzi",
+    "published_at_utc": "2026-11-20T02:09:25.605764+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df8jCosM2Yp/"
   },
   {
     "slot_id": 19,
