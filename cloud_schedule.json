@@ -480,7 +480,7 @@
     "slot_id": 22,
     "scheduled_slot_utc": "2026-11-21T06:15:00Z",
     "scheduled_slot_local": "2026-11-21 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "ad9d319b-95a0-4988-ac0a-0aa39b0d2659",
     "filename": "22.mp4",
     "hook": "What if the strongest alliance in history was completely erased from existence in a single day?",
@@ -493,9 +493,11 @@
       "#MonkeyDGarp",
       "#GolDRoger"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1bIMmKJKlAqNpSCljsqpiYleu_uIWa628"
+    "instagram_code": "Df_1cc_sUV5",
+    "instagram_media_id": "4035178842891044217_14623944338",
+    "gdrive_file_id": "1bIMmKJKlAqNpSCljsqpiYleu_uIWa628",
+    "published_at_utc": "2026-11-21T08:47:57.841731+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df_1cc_sUV5/"
   },
   {
     "slot_id": 23,
