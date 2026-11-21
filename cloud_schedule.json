@@ -457,7 +457,7 @@
     "slot_id": 21,
     "scheduled_slot_utc": "2026-11-21T01:30:00Z",
     "scheduled_slot_local": "2026-11-21 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "11cdbe9d-b616-4688-885d-252565378c80",
     "filename": "21.mp4",
     "hook": "What if the final boss of the seas has been hiding in plain sight the entire time?",
@@ -470,9 +470,11 @@
       "#OnePieceTheory",
       "#AnimeReels"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1ukIgK_ctmI1hamll3Ulj7gnf9NIQQtOa"
+    "instagram_code": "Df_z17qMrSK",
+    "instagram_media_id": "4035171797710320778_14623944338",
+    "gdrive_file_id": "1ukIgK_ctmI1hamll3Ulj7gnf9NIQQtOa",
+    "published_at_utc": "2026-11-21T08:33:56.531300+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df_z17qMrSK/"
   },
   {
     "slot_id": 22,
