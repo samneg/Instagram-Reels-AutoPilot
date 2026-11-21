@@ -503,7 +503,7 @@
     "slot_id": 23,
     "scheduled_slot_utc": "2026-11-21T09:15:00Z",
     "scheduled_slot_local": "2026-11-21 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "5a6b8a01-7f56-4554-a79c-faf7de94e2cb",
     "filename": "23.mp4",
     "hook": "This creepy Bleach fan theory about Tsukishima and Kaoru made Tite Kubo genuinely scared.",
@@ -516,9 +516,11 @@
       "#Tsukishima",
       "#IchigoKurosaki"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1fX3uxVukflovdDopY_tpp74w1OeQPQU5"
+    "instagram_code": "Df_5z7gsCka",
+    "instagram_media_id": "4035198048390883610_14623944338",
+    "gdrive_file_id": "1fX3uxVukflovdDopY_tpp74w1OeQPQU5",
+    "published_at_utc": "2026-11-21T09:26:08.025773+00:00",
+    "reel_url": "https://www.instagram.com/reel/Df_5z7gsCka/"
   },
   {
     "slot_id": 24,
