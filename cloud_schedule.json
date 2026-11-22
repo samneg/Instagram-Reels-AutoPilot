@@ -549,7 +549,7 @@
     "slot_id": 25,
     "scheduled_slot_utc": "2026-11-22T06:15:00Z",
     "scheduled_slot_local": "2026-11-22 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "260a5f57-ec10-42f3-9a58-b782c8afce45",
     "filename": "25.mp4",
     "hook": "What if Luffy isn't actually Joy Boy's reincarnation, but something much crazier?",
@@ -562,9 +562,11 @@
       "#OnePieceTheory",
       "#AnimeTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1_5FEjxUlfSBUMVwyz6y1b_RgXGC8RNsx"
+    "instagram_code": "DgCYAXRst1k",
+    "instagram_media_id": "4035893794186648932_14623944338",
+    "gdrive_file_id": "1_5FEjxUlfSBUMVwyz6y1b_RgXGC8RNsx",
+    "published_at_utc": "2026-11-22T08:28:24.445263+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgCYAXRst1k/"
   },
   {
     "slot_id": 26,
