@@ -526,7 +526,7 @@
     "slot_id": 24,
     "scheduled_slot_utc": "2026-11-22T01:30:00Z",
     "scheduled_slot_local": "2026-11-22 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "5175f243-693f-4132-81c5-ea67b38e12fd",
     "filename": "24.mp4",
     "hook": "What if the greatest swordsman in One Piece actually has death standing right behind him?",
@@ -539,9 +539,11 @@
       "#OnePieceTheory",
       "#AnimeTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "12X3_9oce15DhnKQFCwqSftO5Zyf_Jgs4"
+    "instagram_code": "DgBx80ys4W_",
+    "instagram_media_id": "4035726425233524159_14623944338",
+    "gdrive_file_id": "12X3_9oce15DhnKQFCwqSftO5Zyf_Jgs4",
+    "published_at_utc": "2026-11-22T02:55:56.329292+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgBx80ys4W_/"
   },
   {
     "slot_id": 25,
