@@ -572,7 +572,7 @@
     "slot_id": 26,
     "scheduled_slot_utc": "2026-11-22T09:15:00Z",
     "scheduled_slot_local": "2026-11-22 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "df488a6d-0c0c-4e5e-9774-4a4b287897fe",
     "filename": "26.mp4",
     "hook": "What if Aizen used his Bankai and nobody noticed the entire time?",
@@ -585,9 +585,11 @@
       "#BleachThousandYearBloodWar",
       "#Bankai"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1ETQCkMdw6F-oOU3sP_SGIg0rzsTbUO2-"
+    "instagram_code": "DgCo9JTsNZt",
+    "instagram_media_id": "4035968339819943533_14623944338",
+    "gdrive_file_id": "1ETQCkMdw6F-oOU3sP_SGIg0rzsTbUO2-",
+    "published_at_utc": "2026-11-22T10:56:07.608929+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgCo9JTsNZt/"
   },
   {
     "slot_id": 27,
