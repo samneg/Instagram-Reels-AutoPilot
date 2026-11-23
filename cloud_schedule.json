@@ -595,7 +595,7 @@
     "slot_id": 27,
     "scheduled_slot_utc": "2026-11-23T01:30:00Z",
     "scheduled_slot_local": "2026-11-23 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "397dbc6a-92c1-44bf-b033-91cce95d5aa9",
     "filename": "27.mp4",
     "hook": "Jushiro Ukitake's final words to Unohana weren't a goodbye, they were a warning.",
@@ -608,9 +608,11 @@
       "#Unohana",
       "#AnimeTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1wOZ2pSO9l_STag14II7Ub8vxxz7qUU8D"
+    "instagram_code": "DgE-zeAs8A8",
+    "instagram_media_id": "4036627381831843900_14623944338",
+    "gdrive_file_id": "1wOZ2pSO9l_STag14II7Ub8vxxz7qUU8D",
+    "published_at_utc": "2026-11-23T08:45:57.122595+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgE-zeAs8A8/"
   },
   {
     "slot_id": 28,
