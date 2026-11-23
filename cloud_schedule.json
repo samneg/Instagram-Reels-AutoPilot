@@ -618,7 +618,7 @@
     "slot_id": 28,
     "scheduled_slot_utc": "2026-11-23T06:15:00Z",
     "scheduled_slot_local": "2026-11-23 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "e37ae415-7aaa-4871-8c39-35d9bf68d0a3",
     "filename": "28.mp4",
     "hook": "We only know where three pieces of the Soul King went in Bleach... but where are the rest?",
@@ -631,9 +631,11 @@
       "#AnimeTheory",
       "#TiteKubo"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1K4Y-cNA7XcKW_Y0UCcIR100ahfXT3Fck"
+    "instagram_code": "DgFDqLdMTMG",
+    "instagram_media_id": "4036648733665997574_14623944338",
+    "gdrive_file_id": "1K4Y-cNA7XcKW_Y0UCcIR100ahfXT3Fck",
+    "published_at_utc": "2026-11-23T09:28:21.392626+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgFDqLdMTMG/"
   },
   {
     "slot_id": 29,
