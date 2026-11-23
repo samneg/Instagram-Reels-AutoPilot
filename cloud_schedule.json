@@ -641,7 +641,7 @@
     "slot_id": 29,
     "scheduled_slot_utc": "2026-11-23T09:15:00Z",
     "scheduled_slot_local": "2026-11-23 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "45364743-0c83-4eef-9b1f-7e62cefb2a89",
     "filename": "29.mp4",
     "hook": "What if Sukuna was already a monster before he was even born?",
@@ -654,9 +654,11 @@
       "#JJKTheory",
       "#KingOfCurses"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1CaoHv-Iu3aKOWKb0VjRQb19Cw7r2IY2i"
+    "instagram_code": "DgFGNo1sXZj",
+    "instagram_media_id": "4036659966490277475_14623944338",
+    "gdrive_file_id": "1CaoHv-Iu3aKOWKb0VjRQb19Cw7r2IY2i",
+    "published_at_utc": "2026-11-23T09:50:13.538392+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgFGNo1sXZj/"
   },
   {
     "slot_id": 30,
