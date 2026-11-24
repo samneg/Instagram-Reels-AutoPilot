@@ -664,7 +664,7 @@
     "slot_id": 30,
     "scheduled_slot_utc": "2026-11-24T01:30:00Z",
     "scheduled_slot_local": "2026-11-24 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "ccd6b7ab-51f6-4ef9-925f-0bc5679e8eff",
     "filename": "30.mp4",
     "hook": "What if Gojo didn't actually die, but split into all of his students instead?",
@@ -677,9 +677,11 @@
       "#AnimeTheory",
       "#Gojo"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1hW0ptq7qtgaHuY3-RIFB2UBsMmUheSN4"
+    "instagram_code": "DgHLwT4M3yT",
+    "instagram_media_id": "4037247289351437459_14623944338",
+    "gdrive_file_id": "1hW0ptq7qtgaHuY3-RIFB2UBsMmUheSN4",
+    "published_at_utc": "2026-11-24T05:17:08.114833+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgHLwT4M3yT/"
   },
   {
     "slot_id": 31,
