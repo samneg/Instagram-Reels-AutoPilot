@@ -687,7 +687,7 @@
     "slot_id": 31,
     "scheduled_slot_utc": "2026-11-24T06:15:00Z",
     "scheduled_slot_local": "2026-11-24 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "07bf9441-d3e4-4d80-8cc0-900933bc1653",
     "filename": "31.mp4",
     "hook": "Did Monkey D. Dragon secretly have the most overpowered weather devil fruit in One Piece all along?",
@@ -700,9 +700,11 @@
       "#OnePieceTheory",
       "#AnimeReels"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1Oc5wfFfxtZoJMZAJHk1XTUZ87BZlT6a6"
+    "instagram_code": "DgH1kFbMMht",
+    "instagram_media_id": "4037431167152081005_14623944338",
+    "gdrive_file_id": "1Oc5wfFfxtZoJMZAJHk1XTUZ87BZlT6a6",
+    "published_at_utc": "2026-11-24T11:22:56.036729+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgH1kFbMMht/"
   },
   {
     "slot_id": 32,
