@@ -710,7 +710,7 @@
     "slot_id": 32,
     "scheduled_slot_utc": "2026-11-24T09:15:00Z",
     "scheduled_slot_local": "2026-11-24 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "1f034b70-b840-4539-8951-a2a2f1a8c79e",
     "filename": "32.mp4",
     "hook": "Why can Blackbeard use two Devil Fruits when everyone else dies trying?",
@@ -723,9 +723,11 @@
       "#OnePieceTheory",
       "#DevilsFruit"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1YCHrOiZ8uGF7objQqyOyLzfFgCEIDbRf"
+    "instagram_code": "DgH3iswMiXb",
+    "instagram_media_id": "4037439868034491867_14623944338",
+    "gdrive_file_id": "1YCHrOiZ8uGF7objQqyOyLzfFgCEIDbRf",
+    "published_at_utc": "2026-11-24T11:40:12.632894+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgH3iswMiXb/"
   },
   {
     "slot_id": 33,
