@@ -756,7 +756,7 @@
     "slot_id": 34,
     "scheduled_slot_utc": "2026-11-25T06:15:00Z",
     "scheduled_slot_local": "2026-11-25 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "d84a04ec-3837-4c0f-bbf8-a08dc8705e25",
     "filename": "34.mp4",
     "hook": "Everyone talks about the Founding Titan, but nobody realizes how terrifying the Attack Titan's power over time actually is.",
@@ -769,9 +769,11 @@
       "#FoundingTitan",
       "#AOT"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1CS89FS34Z0erY7BeeR63Wp7wKDujIdt_"
+    "instagram_code": "DgKRwhjsc7O",
+    "instagram_media_id": "4038118117248978638_14623944338",
+    "gdrive_file_id": "1CS89FS34Z0erY7BeeR63Wp7wKDujIdt_",
+    "published_at_utc": "2026-11-25T10:07:19.881094+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgKRwhjsc7O/"
   },
   {
     "slot_id": 35,
