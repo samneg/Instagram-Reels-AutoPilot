@@ -779,7 +779,7 @@
     "slot_id": 35,
     "scheduled_slot_utc": "2026-11-25T09:15:00Z",
     "scheduled_slot_local": "2026-11-25 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "e2e6ec73-fe10-40f9-a548-2f5b8a72ae0c",
     "filename": "35.mp4",
     "hook": "Eren didn't want to be forgiven, he needed Mikasa to be the one to stop him.",
@@ -792,9 +792,11 @@
       "#MikasaAckerman",
       "#AnimeEdits"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1TLpDZa-hGPChHfEvGb20TCVbNglOFvu6"
+    "instagram_code": "DgKUjy5soSH",
+    "instagram_media_id": "4038130436658070663_14623944338",
+    "gdrive_file_id": "1TLpDZa-hGPChHfEvGb20TCVbNglOFvu6",
+    "published_at_utc": "2026-11-25T10:32:16.485200+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgKUjy5soSH/"
   },
   {
     "slot_id": 36,
