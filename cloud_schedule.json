@@ -733,7 +733,7 @@
     "slot_id": 33,
     "scheduled_slot_utc": "2026-11-25T01:30:00Z",
     "scheduled_slot_local": "2026-11-25 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "a4e5986a-5a78-4241-9bae-b5908d49e7db",
     "filename": "33.mp4",
     "hook": "What if Luffy's secret dream has nothing to do with becoming the Pirate King?",
@@ -746,9 +746,11 @@
       "#StrawHatPirates",
       "#OnePieceTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1OuHxMXs7Pu0XW7CO55ImIDx8RmWjtmYI"
+    "instagram_code": "DgJaYI4sq5s",
+    "instagram_media_id": "4037874548932259436_14623944338",
+    "gdrive_file_id": "1OuHxMXs7Pu0XW7CO55ImIDx8RmWjtmYI",
+    "published_at_utc": "2026-11-25T02:03:53.932282+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgJaYI4sq5s/"
   },
   {
     "slot_id": 34,
