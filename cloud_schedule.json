@@ -802,7 +802,7 @@
     "slot_id": 36,
     "scheduled_slot_utc": "2026-11-26T01:30:00Z",
     "scheduled_slot_local": "2026-11-26 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "dcfc762a-9439-4f5c-8bcb-9cb9e1a08591",
     "filename": "36.mp4",
     "hook": "Why Levi Ackerman actually made the right choice by letting Erwin die.",
@@ -815,9 +815,11 @@
       "#ErwinSmith",
       "#ArminArlert"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "16JCR7YVNpNWm5xju2JKHeXheZerM5Ok9"
+    "instagram_code": "DgMR-hBsIab",
+    "instagram_media_id": "4038682028704564891_14623944338",
+    "gdrive_file_id": "16JCR7YVNpNWm5xju2JKHeXheZerM5Ok9",
+    "published_at_utc": "2026-11-26T04:47:43.944178+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgMR-hBsIab/"
   },
   {
     "slot_id": 37,
