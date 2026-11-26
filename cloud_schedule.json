@@ -825,7 +825,7 @@
     "slot_id": 37,
     "scheduled_slot_utc": "2026-11-26T06:15:00Z",
     "scheduled_slot_local": "2026-11-26 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "3b55246d-92c5-4939-8662-0586007492eb",
     "filename": "37.mp4",
     "hook": "Eren spent his whole life breaking chains, only to become the biggest prisoner of all.",
@@ -838,9 +838,11 @@
       "#AnimeTheory",
       "#ShingekiNoKyojin"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1mbilFIKhv5nveiscYPs6bNF9qAHrT4Ab"
+    "instagram_code": "DgM1KmBseWS",
+    "instagram_media_id": "4038836790334973330_14623944338",
+    "gdrive_file_id": "1mbilFIKhv5nveiscYPs6bNF9qAHrT4Ab",
+    "published_at_utc": "2026-11-26T09:55:39.791621+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgM1KmBseWS/"
   },
   {
     "slot_id": 38,
