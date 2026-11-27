@@ -871,7 +871,7 @@
     "slot_id": 39,
     "scheduled_slot_utc": "2026-11-27T01:30:00Z",
     "scheduled_slot_local": "2026-11-27 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "63530a9c-e68e-472d-a402-9abc42da5233",
     "filename": "39.mp4",
     "hook": "Were Imu and Joy Boy Once Allies in One Piece?",
@@ -884,9 +884,11 @@
       "#VoidCentury",
       "#AnimeTheory"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1kIjPIDorfBKo7tLi82vstick51KgKp1m"
+    "instagram_code": "DgPJuNVMFjK",
+    "instagram_media_id": "4039490148603287754_14623944338",
+    "gdrive_file_id": "1kIjPIDorfBKo7tLi82vstick51KgKp1m",
+    "published_at_utc": "2026-11-27T07:33:44.157986+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgPJuNVMFjK/"
   },
   {
     "slot_id": 40,
