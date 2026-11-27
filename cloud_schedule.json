@@ -894,7 +894,7 @@
     "slot_id": 40,
     "scheduled_slot_utc": "2026-11-27T06:15:00Z",
     "scheduled_slot_local": "2026-11-27 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "8b49fb20-2122-48a3-a8a3-f50dcd7c40b4",
     "filename": "40.mp4",
     "hook": "Will Zoro's Final Power-Up Be Black Blades?",
@@ -907,9 +907,11 @@
       "#BlackBlades",
       "#Mihawk"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1QERy7eK9mta_5L_nY1tNpobtir0iafNg"
+    "instagram_code": "DgPZ7Qes2VI",
+    "instagram_media_id": "4039561414081471816_14623944338",
+    "gdrive_file_id": "1QERy7eK9mta_5L_nY1tNpobtir0iafNg",
+    "published_at_utc": "2026-11-27T09:55:23.650520+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgPZ7Qes2VI/"
   },
   {
     "slot_id": 41,
