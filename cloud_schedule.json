@@ -940,7 +940,7 @@
     "slot_id": 42,
     "scheduled_slot_utc": "2026-11-28T01:30:00Z",
     "scheduled_slot_local": "2026-11-28 07:00:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "71cd409b-7271-4667-aa52-21c229b7e883",
     "filename": "42.mp4",
     "hook": "Did Shanks Know What Luffy's Devil Fruit Really Was?",
@@ -953,9 +953,11 @@
       "#AnimeTheory",
       "#JoyBoy"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1iBqwi1cbmLo64h9kw7bvwZoJp-WfSqz4"
+    "instagram_code": "DgR5bWxs4M8",
+    "instagram_media_id": "4040262909261218620_14623944338",
+    "gdrive_file_id": "1iBqwi1cbmLo64h9kw7bvwZoJp-WfSqz4",
+    "published_at_utc": "2026-11-28T09:09:06.659903+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgR5bWxs4M8/"
   },
   {
     "slot_id": 43,
