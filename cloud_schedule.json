@@ -963,7 +963,7 @@
     "slot_id": 43,
     "scheduled_slot_utc": "2026-11-28T06:15:00Z",
     "scheduled_slot_local": "2026-11-28 11:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "58c03592-fd9e-4c60-8050-5e7a51131598",
     "filename": "43.mp4",
     "hook": "Was Near Actually Smarter Than L? The Ultimate Death Note Theory.",
@@ -976,9 +976,11 @@
       "#Detective",
       "#Anime"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1lLPqBYhcceLaQasItO27f-wguAprhqpc"
+    "instagram_code": "DgR7vhGMWB7",
+    "instagram_media_id": "4040273090824986747_14623944338",
+    "gdrive_file_id": "1lLPqBYhcceLaQasItO27f-wguAprhqpc",
+    "published_at_utc": "2026-11-28T09:29:19.690922+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgR7vhGMWB7/"
   },
   {
     "slot_id": 44,
