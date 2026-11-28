@@ -986,7 +986,7 @@
     "slot_id": 44,
     "scheduled_slot_utc": "2026-11-28T09:15:00Z",
     "scheduled_slot_local": "2026-11-28 14:45:00",
-    "status": "Pending",
+    "status": "Published",
     "video_id": "42780fff-404d-49df-b142-670a502286e5",
     "filename": "44.mp4",
     "hook": "Is the One Piece actually a machine that will destroy the Red Line?",
@@ -999,9 +999,11 @@
       "#Luffy",
       "#Sanji"
     ],
-    "instagram_code": "",
-    "instagram_media_id": "",
-    "gdrive_file_id": "1FxqyO_bakfmyIhN8WTEt7sk6itt2rozg"
+    "instagram_code": "DgR_Mg0M_5D",
+    "instagram_media_id": "4040288277527526979_14623944338",
+    "gdrive_file_id": "1FxqyO_bakfmyIhN8WTEt7sk6itt2rozg",
+    "published_at_utc": "2026-11-28T09:59:30.000509+00:00",
+    "reel_url": "https://www.instagram.com/reel/DgR_Mg0M_5D/"
   },
   {
     "slot_id": 45,
